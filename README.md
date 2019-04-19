@@ -84,3 +84,7 @@ V shemi uporabite:
 ```
 
 Več v [dokumentaciji](https://lucene.apache.org/solr/guide/7_7/language-analysis.html#opennlp-integration).
+
+Uporabljen je korpus ssj500k 2.2, pod Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licenco.
+
+`Krek, Simon; et al., 2019, Training corpus ssj500k 2.2, Slovenian language resource repository CLARIN.SI`, [http://hdl.handle.net/11356/1210](http://hdl.handle.net/11356/1210.).
