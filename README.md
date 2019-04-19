@@ -22,7 +22,7 @@ OPENNLP statistični modeli za:
 
 `python okrajsave.py`
 
-#####Treniranje modelov
+#### Treniranje modelov
 
 *Tokenizacija*
 
@@ -47,7 +47,7 @@ OPENNLP statistični modeli za:
 Vsi modeli se nahajajo v podmapi `models`. 
 Parametri so privzeti; za več njih se posvetujte z [dokumentacijo](http://opennlp.apache.org/docs/1.9.1/manual/opennlp.html#tools.cli).
 
-####SOLR
+#### SOLR
 
 Kopirajte modele iz mape `models` v podmapo `opennlp` vašega SOLR jedra. Primer :
 
